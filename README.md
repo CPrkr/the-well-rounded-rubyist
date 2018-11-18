@@ -1,2 +1,2 @@
 # the-well-rounded-rubyist
-Playing around with Ruby as I learn from The Well Rounded Rubyist
+This is a repository for playing around with Ruby as I learn from the book The Well Rounded Rubyist.
