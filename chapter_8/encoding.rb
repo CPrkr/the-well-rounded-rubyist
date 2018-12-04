@@ -1,4 +1,4 @@
-tr = "Test string"
+str = "Test string"
 puts str
 
 puts str.encoding
